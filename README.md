@@ -11,7 +11,8 @@ KT0913 radio, atmega328 source code,
  * xiaolaba  
  * disable / change F_CPU to 16MHZ, as default, Arduino Nano (ATmega168) testing  
  * firmware image enclosed, ATmega168, 16MHZ XTAL used for testing
- **/
+ *
+ */  
 
 circuit diagram
 ![ATmega328_KT0913_schematic.JPG](ATmega328_KT0913_schematic.JPG)
