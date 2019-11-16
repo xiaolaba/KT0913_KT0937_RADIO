@@ -14,5 +14,6 @@ KT0913 radio, atmega328 source code,
  **/
 
 circuit diagram
+![ATmega328_KT0913_schematic.JPG](ATmega328_KT0913_schematic.JPG)
 
 
